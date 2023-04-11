@@ -1,0 +1,51 @@
+.header {
+    display: flex;
+    background: #ffcd9e;
+  }
+  
+  .headerLeft {
+    width: 100%;
+    height: 300px;
+    margin: 50px 5px 50px 120px;
+  }
+  
+  .paraL{
+  height: auto;
+  width: 80%
+  }
+  
+  .registerblock {
+    display: flex;
+  }
+  
+  .input{
+      border-color: #282828;
+      border-width: 2px;
+      border-radius: 6px;
+      height: 40px;
+      width: 250px;
+  }
+  .button{
+      background-color: #282828;
+      color:aliceblue;
+      margin-left: 10px;
+      border-radius: 6px;
+      width: 150px;
+  }
+  
+  .Freenodata{
+      color: white;
+      margin-left: 14px;
+      
+  }
+  .headerRight {
+    width: 100%;
+    height: 250px;
+    margin-left: 140px;
+  }
+  
+  .hrphoto{
+      width: 250px;
+      height: 280px;
+      margin: 50px 70px 100px 100px;
+  }
